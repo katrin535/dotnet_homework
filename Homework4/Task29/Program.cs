@@ -39,7 +39,9 @@ void Screen(int[] a)
 
 Console.Write("Введите элементы массива : ");
 string seriesOfNumbers = Console.ReadLine();
-int[] arrayOfNumbers = ArrayMethod(seriesOfNumbers);
-Screen(arrayOfNumbers);
+//int[] arrayOfNumbers = ArrayMethod(seriesOfNumbers);
+Screen(ArrayMethod(seriesOfNumbers));
+
+//Screen(arrayOfNumbers);
 
  
