@@ -7,21 +7,36 @@
 
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.*/
 
-Console.Write("Введите позицию i элемента: ");
-int i = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите позицию j элемента: ");
-int j = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Задайте количество строк двумерного массива:");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Задайте количество столбцов двумерного массива:");
+int n = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Полученный массив из рандомных чисел:");
+int[,] twoDimArray = new int[m, n];
+Random rnd = new Random();
+void PrintArray(int[,] matr)
+{ for (int i = 0; i < m; i++)
+ { for (int j = 0; j < n; j++)
+ { Console.Write($"{matr[i, j]} ");}
+ Console.WriteLine();}}
 
-int[,] array2D = new int[,] { { 1, 2, 11, 21 }, { 3, 14, 22, 4 }, { 5, 8, 18, 19 } };
-Console.WriteLine ("Задан массив: { 1, 2, 11, 21 }, { 3, 14, 22, 4 }, { 5, 8, 18, 19 }");
-if (i < array2D.GetLength(0) && j < array2D.GetLength(1))
+void FillArray(int[,] matr)
+{ for (int i = 0; i < m; i++)
+ { for (int j = 0; j < n; j++)
+ { matr[i,j] = Convert.ToInt32(rnd.Next(0, 100));}}}
+FillArray(twoDimArray);
+Console.WriteLine();
+PrintArray(twoDimArray);
+double[] b=new double[n];
+for (int j = 0,k =0;j<n;j++)
 {
-    Console.WriteLine($"[i,j] элемент в массиве: {array2D[i, j]}");
+    {
+        double summ = 0;
+        for (int i = 0;i<m;i++)
+
+        {summ += twoDimArray[i,j];}
+        b[k] = summ/m;
+        Console.WriteLine("Среднее арифметическое столбца "+(j+1)+" равно: "+ Math.Round(b[k], 2));
+        k++;
+    }
 }
-else
-{
-    Console.Write($"i = {i}, j = {j} - такого числа в массиве нет");
-}
-double k1 = array2D[0,0] + array2D[0,1];
-double k2 =
-//double k3 =
