@@ -24,4 +24,4 @@ else
 }
 double k1 = array2D[0,0] + array2D[0,1];
 double k2 =
-double k3 =
+//double k3 =
