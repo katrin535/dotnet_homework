@@ -1,9 +1,9 @@
 ﻿/*Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.*/
 
-Console.WriteLine($"\nВведите размер массива m x n и диапазон случайных значений:");
+Console.WriteLine($"Введите размер массива m x n:");
 int m = InputNumbers("Введите m: ");
 int n = InputNumbers("Введите n: ");
-//int range = InputNumbers("Введите диапазон: от 1 до ");
+Console.WriteLine($"Рандомный массив m x n: ");
 
 int[,] array = new int[m, n];
 CreateArray(array);
