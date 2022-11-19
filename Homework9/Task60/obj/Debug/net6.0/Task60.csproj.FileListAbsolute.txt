@@ -1,0 +1,15 @@
+C:\dotnethomework\Homework9\Task60\bin\Debug\net6.0\Task60.exe
+C:\dotnethomework\Homework9\Task60\bin\Debug\net6.0\Task60.deps.json
+C:\dotnethomework\Homework9\Task60\bin\Debug\net6.0\Task60.runtimeconfig.json
+C:\dotnethomework\Homework9\Task60\bin\Debug\net6.0\Task60.dll
+C:\dotnethomework\Homework9\Task60\bin\Debug\net6.0\Task60.pdb
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\Task60.csproj.AssemblyReference.cache
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\Task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\Task60.AssemblyInfoInputs.cache
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\Task60.AssemblyInfo.cs
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\Task60.csproj.CoreCompileInputs.cache
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\Task60.dll
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\refint\Task60.dll
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\Task60.pdb
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\Task60.genruntimeconfig.cache
+C:\dotnethomework\Homework9\Task60\obj\Debug\net6.0\ref\Task60.dll
