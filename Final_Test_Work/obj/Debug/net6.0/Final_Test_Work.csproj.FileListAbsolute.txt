@@ -1,0 +1,15 @@
+C:\dotnethomework\Final_Test_Work\bin\Debug\net6.0\Final_Test_Work.exe
+C:\dotnethomework\Final_Test_Work\bin\Debug\net6.0\Final_Test_Work.deps.json
+C:\dotnethomework\Final_Test_Work\bin\Debug\net6.0\Final_Test_Work.runtimeconfig.json
+C:\dotnethomework\Final_Test_Work\bin\Debug\net6.0\Final_Test_Work.dll
+C:\dotnethomework\Final_Test_Work\bin\Debug\net6.0\Final_Test_Work.pdb
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\Final_Test_Work.csproj.AssemblyReference.cache
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\Final_Test_Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\Final_Test_Work.AssemblyInfoInputs.cache
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\Final_Test_Work.AssemblyInfo.cs
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\Final_Test_Work.csproj.CoreCompileInputs.cache
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\Final_Test_Work.dll
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\refint\Final_Test_Work.dll
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\Final_Test_Work.pdb
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\Final_Test_Work.genruntimeconfig.cache
+C:\dotnethomework\Final_Test_Work\obj\Debug\net6.0\ref\Final_Test_Work.dll
