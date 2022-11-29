@@ -26,5 +26,7 @@ void PrintArray(string[] arrayA)
     }
     Console.WriteLine();
 }
+
+Console.WriteLine("Полученный массив из строк, длина которых <=3 символа: ");
 ArrayOfSymbols(array1, array2);
 PrintArray(array2);
